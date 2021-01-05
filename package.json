@@ -34,7 +34,7 @@
     "@mdx-js/react": "^1.5.1",
     "@n8tb1t/use-scroll-position": "^1.0.43",
     "aws-lambda": "^1.0.5",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "formik": "^2.1.4",
     "gatsby": "^2.13.21",
